@@ -1,0 +1,22 @@
+{
+  "name": "jquery-ui",
+  "version": "1.3.0",
+  "description": "Forked JQuery UI SelectMenu",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeteProvar/jquery-ui.git"
+  },
+  "author": "FNagel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PeteProvar/jquery-ui/issues"
+  },
+  "homepage": "https://github.com/PeteProvar/jquery-ui#readme"
+}
