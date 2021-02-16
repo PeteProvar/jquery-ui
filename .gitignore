@@ -37,7 +37,6 @@ docs
 /demos/tabs
 /demos/toggle
 /build
-/package.json
 /tests/jquery-1.6.1.js
 /tests/jquery-1.6.2.js
 /tests/jquery-1.6.3.js
